@@ -1,4 +1,4 @@
-![image](https://github.com/raksha1408/YourDay-Weather-App-/assets/84089427/a5ead38c-fe42-424e-8334-1098927a6015)# YourDay-Weather-App
+
 
 steps to run the project:
 
@@ -10,4 +10,7 @@ steps to run the project:
 3. The weather app will run on local host 3000 and you're all set.
 
 
- ![Screenshot 2024-04-27 224439](https://github.com/raksha1408/YourDay-Weather-App-/assets/84089427/0ddf9862-c8f8-4d79-af71-c3ce09e3c31a)
+![Screenshot 2024-04-27 224439](https://github.com/raksha1408/YourDay-Weather-App-/assets/84089427/23e00e83-6de2-48d1-bbd9-33359c85f5b5)
+
+
+
